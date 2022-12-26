@@ -38,7 +38,7 @@ body {
 form {
 	margin-top: 50px;
 	background-color: white;
-	padding: 0 3vw 20px 3vw;
+	padding: 10px 3vw 20px 3vw;
 	box-shadow: 0 10px 10px -2px #a8a6ba;
 }
 form p {
@@ -88,5 +88,13 @@ button {
 button:hover {
 	border: 1px solid #1c1893;
 	background-color: transparent;
+	color: #1c1893;
+}
+.final-header {
+	padding: 40px 3vw 0 3vw;
+	color: var(--font-color);
+}
+.final-header a {
+	text-decoration: none;
 	color: #1c1893;
 }

@@ -36,3 +36,11 @@ body {
 	padding-top: 10px;
 	font-size: 1.1rem;
 }
+form {
+	margin-top: 50px;
+}
+form p {
+	font-size: 1.1rem;
+	color: var(--font-color);
+	margin-bottom: 20px;
+}
